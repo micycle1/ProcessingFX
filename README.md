@@ -1,7 +1,6 @@
 # ProcessingFX
 ### Description
-A basic project showing how a Processing sketch and a JavaFX window (a stage loaded from an *.FXML* file) may be combined/integrated,
-and how each of the two components may interact with each other.
+A basic project showing how a Processing sketch and a JavaFX window (a stage loaded from an *.FXML* file) may be combined/integrated (both as a Java Project and PDE file), and how each of the two components may interact with each other (Java project only).
 
 ### Extending
 If you use this code as inspiration, ensure you download the [*core-10.jar file*](https://github.com/micycle1/ProcessingFX/blob/master/lib/core-10.jar)
